@@ -25,7 +25,7 @@
 
 ###
 
-<p align="left">I'm mobile developer</p>
+<p align="left">I build apps for phones, but sometimes websites sneak into my to-do list too 😅</p>
 
 ###
 
@@ -71,6 +71,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" height="40" alt="microsoftsqlserver logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="sqlite logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
 </div>
 
 ###

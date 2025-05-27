@@ -13,9 +13,8 @@
   <a href="https://facebook.com/lionelyayan" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
   </a>
-  <a href="https://rie-ian.blogspot.com/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Blogspot&logo=blogger&label=&color=FF5722&logoColor=white&style=for-the-badge
-    " height="25" alt="blogspot logo"  />
+  <a href="https://lionelyayan.github.io/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Website&label=&color=FF5722&style=for-the-badge" height="25" alt="website" />
   </a>
 </div>
 
